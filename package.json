@@ -1,0 +1,14 @@
+{
+  "name": "nl.hollebm.angularjscordovaapp",
+  "version": "1.0.0",
+  "displayName": "Angular JS Cordova App",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "angular-loader": "^1.7.4",
+    "cordova-android": "~7.0.0"
+  }
+}
